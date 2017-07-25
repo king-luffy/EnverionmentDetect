@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/out/production/EnverionmentDetect/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/service/Enverionment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/util/ProcessHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-aochuang-plugin/src/main/java/com/dianping/orderdish/dbh/aochuang/impl/ACFetchPosTableServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/src/main/java/com/dianping/orderdish/dbh/jiajia/dao/JiaJiaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/src/main/java/com/dianping/orderdish/dbh/jiajia/po/JiaJiaTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/src/main/java/com/dianping/orderdish/dbh/jiajia/service/base/JiaJiaFetchOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/src/main/java/com/dianping/orderdish/dbh/jiajia/service/impl/JiaJiaPosBaseConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/src/main/java/com/dianping/orderdish/dbh/jiajia/service/impl/JiaJiaPosTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/src/main/java/com/dianping/orderdish/dbh/jiajia/service/impl/JiaJiaShopTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-yuzhouren-plugin/src/main/java/com/dianping/orderdish/dbh/yuzhouren/service/HackDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
