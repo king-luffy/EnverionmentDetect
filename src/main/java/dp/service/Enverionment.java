@@ -1,12 +1,10 @@
 package dp.service;
 
-import com.ice.jni.registry.Registry;
-import com.ice.jni.registry.RegistryException;
-import com.ice.jni.registry.RegistryKey;
-import com.ice.jni.registry.RegistryValue;
+import com.ice.jni.registry.*;
 import dp.util.ProcessHelper;
 import org.apache.log4j.Logger;
 
+import java.util.Enumeration;
 import java.util.Properties;
 
 /**
@@ -44,30 +42,69 @@ public class Enverionment {
             //Key to SQL
             RegistryKey child = Registry.HKEY_LOCAL_MACHINE.openSubKey("Software");
             RegistryKey microsoft = child.openSubKey("Microsoft");
-            RegistryKey mysqlserver = microsoft.openSubKey("MSSQLServer");
+            RegistryKey mysqlserver = null;
+            try {
+                mysqlserver = microsoft.openSubKey("MSSQLServer");
+            }catch (NoSuchKeyException e){
+                logger.info("No SQl Server install in current Computer!");
+                return;
+            }
+            logger.info("--------------------SQL Server Info --------------------");
 
             //Setup key for Sql server
             RegistryKey sqlsetupinfo = mysqlserver.openSubKey("Setup");
-            String edition = sqlsetupinfo.getStringValue("Edition");
-            String version = sqlsetupinfo.getStringValue("Patchlevel");
-            String sqlRoot = sqlsetupinfo.getStringValue("SQLPath");
-            String sqlDBRoot = sqlsetupinfo.getStringValue("SQLDataRoot");
-            String otherInfo = null;
-            RegistryValue otherInfoValue = sqlsetupinfo.getValue("Scripts");
-            if(otherInfoValue.getType()==RegistryValue.REG_MULTI_SZ){
-                byte[] bytes =otherInfoValue.getByteData();
-                otherInfo = new String(bytes);
-            }else{
-                otherInfo = sqlsetupinfo.getStringValue("Scripts");
+            Enumeration enumeration =sqlsetupinfo.keyElements();
+            while (enumeration.hasMoreElements()){
+                String eleName = (String)enumeration.nextElement();
+                String tmpResult;
+                switch (eleName){
+                    case "Edition":
+                        tmpResult =sqlsetupinfo.getStringValue("Edition");
+                        logger.info("SQL Edition : "+tmpResult);
+                        break;
+                    case "Patchlevel":
+                        tmpResult =sqlsetupinfo.getStringValue("Patchlevel");
+                        logger.info("SQL Version : "+tmpResult+"（若要支持jdbc,则至少需要大版本8，小版本2039之后，包括2039，具体见：https://wiki.sankuai.com/pages/viewpage.action?pageId=998724980）");
+                        break;
+                    case "SQLPath":
+                        tmpResult = sqlsetupinfo.getStringValue("SQLPath");
+                        logger.info("SQL Install Root : "+tmpResult);
+                        break;
+                    case "SQLDataRoot":
+                        tmpResult = sqlsetupinfo.getStringValue("SQLDataRoot");
+                        logger.info("SQL DB Root : "+tmpResult);
+                        break;
+                    case "Scripts":
+                        RegistryValue otherInfoValue = sqlsetupinfo.getValue("Scripts");
+                        if(otherInfoValue.getType()==RegistryValue.REG_MULTI_SZ){
+                            byte[] bytes =otherInfoValue.getByteData();
+                            tmpResult = new String(bytes);
+                        }else{
+                            tmpResult = sqlsetupinfo.getStringValue("Scripts");
+                        }
+                        logger.info("SQL Other Info : "+tmpResult);
+                        break;
+                }
             }
 
-            //print info
-            logger.info("--------------------SQL Server Info --------------------");
-            logger.info("SQL Edition : "+edition);
-            logger.info("SQL Version : "+version+"（若要支持jdbc,则至少需要大版本8，小版本2039之后，包括2039，具体见：https://wiki.sankuai.com/pages/viewpage.action?pageId=998724980）");
-            logger.info("SQL Install Root : "+sqlRoot);
-            logger.info("SQL DB Root : "+sqlDBRoot);
-            logger.info("SQL Other Info : "+otherInfo);
+            //MSSQLServer/CurrentVersion
+            RegistryKey mssqlserver = mysqlserver.openSubKey("MSSQLServer");
+            RegistryKey currentVersion = mssqlserver.openSubKey("CurrentVersion");
+            enumeration =currentVersion.keyElements();
+            while (enumeration.hasMoreElements()){
+                String eleName = (String)enumeration.nextElement();
+                String tmpResult;
+                switch (eleName){
+                    case "CurrentVersion":
+                        tmpResult =sqlsetupinfo.getStringValue("CurrentVersion");
+                        logger.info("Current Version : "+tmpResult);
+                        break;
+                    case "CSDVersion":
+                        tmpResult =sqlsetupinfo.getStringValue("CSDVersion");
+                        logger.info("CSDVersion : "+tmpResult);
+                        break;
+                }
+            }
 
         } catch (RegistryException e) {
             logger.error(e);
