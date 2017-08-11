@@ -1,6 +1,8 @@
 package dp.service;
 
 import com.ice.jni.registry.*;
+import dp.po.DBConfig;
+import dp.util.ConnectionUtil;
 import dp.util.ProcessHelper;
 import org.apache.log4j.Logger;
 
@@ -49,7 +51,7 @@ public class Enverionment {
                 logger.info("No SQl Server install in current Computer!");
                 return;
             }
-            logger.info("--------------------SQL Server Info --------------------");
+            logger.info("[ SQL Server Info ]");
 
             //Setup key for Sql server
             RegistryKey sqlsetupinfo = mysqlserver.openSubKey("Setup");
@@ -112,12 +114,13 @@ public class Enverionment {
     }
 
     public static void print1433PortInfo(){
-        logger.info("--------------------1433 Port Info --------------------");
+        logger.info("[ 1433 Port Info ]");
         ProcessHelper.execCMD("cmd.exe /c netstat /an | findstr 1433");
     }
 
     public static void main(String[] args) {
-        logger.info("--------------------Begin Enverionment Detection --------------------");
+        //Enverionment Detect
+        logger.info("[ Begin Enverionment Detection: ]");
         printHeadInfo();
         printEnverionment();
 
@@ -128,7 +131,28 @@ public class Enverionment {
 
         }
 
+        logger.info("[ End Enverionment Detection. ]");
+        logger.info("");
 
-        logger.info("--------------------End Enverionment Detection --------------------");
+        //DB info Fetch
+        logger.info("[ Begin Fetch DBInfo: ]");
+
+        DBComparer dbComparer = new DBComparer();
+        DBConfig dbConfig = new DBConfig();
+        dbConfig.setDbIp("172.16.7.128");
+        dbConfig.setDbName("krd");
+        dbConfig.setUserName("sa");
+        dbConfig.setUserPwd("123456");
+        dbConfig.setUrl(ConnectionUtil.formatUrl(dbConfig));
+        try {
+            Class.forName("net.sourceforge.jtds.jdbc.Driver");
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        if (dbConfig!=null) {
+            dbComparer.fetchDBFeilds(dbConfig);
+        }
+        logger.info("[ End Fetch DBInfo. ]");
+        logger.info("");
     }
 }

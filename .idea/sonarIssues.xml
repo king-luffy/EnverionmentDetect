@@ -8,7 +8,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/po/DBConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/po/DBInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/service/DBComparer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/dp/service/Enverionment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/util/ConnectionUtil.java">
           <value>
             <set />
           </value>
@@ -23,12 +43,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../SpringBootGroup/demo_1/src/main/java/com/example/demo/Demo1Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-aochuang-plugin/src/main/java/com/dianping/orderdish/dbh/aochuang/impl/ACFetchPosTableServiceImpl.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-jiajia-plugin/src/main/java/com/dianping/orderdish/dbh/conn/ConnectionManager.java">
           <value>
             <set />
           </value>
@@ -63,12 +93,642 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-keruida2012-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-yuzhouren-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-yuzhouren-plugin/src/main/java/com/dianping/orderdish/dbh/yuzhouren/service/HackDao.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-yuzhouren-plugin/src/main/java/com/dianping/orderdish/dbh/yuzhouren/service/impl/YuzhourenConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-yuzhouren-plugin/src/test/java/com/dianping/orderdish/dbh/yuzhouren/service/impl/HostNameGetTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaBaseConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaShopTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaSqlExecuteServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/common/InitDataException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida/po/KeRuiDaTranFlowHd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida/service/base/KeRuiDaFetchOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaShopTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida/util/MoLingUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida2012/dao/KeRuiDaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida2012/po/KeRuiDaOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida2012/service/base/KeRuiDaFetchOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/keruida2012/service/impl/KeRuiDaOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/mapper/DishItemMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/com/dianping/orderdish/dbh/mapper/OrderInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/resources/com/dianping/orderdish/dbh/keruida/mapper/DishItemMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/resources/com/dianping/orderdish/dbh/keruida/mapper/OrderInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/resources/com/dianping/orderdish/dbh/keruida/mapper/ShopInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/resources/com/dianping/orderdish/dbh/keruida/mapper/SystemRulesInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/resources/com/dianping/orderdish/dbh/keruida2012/mapper/DishItemMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/resources/com/dianping/orderdish/dbh/keruida2012/mapper/OrderInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/mian/java/resources/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/com/dianping/orderdish/dbh/keruida2012/service/impl/BigDecimalTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/com/dianping/orderdish/dbh/keruida2012/service/impl/OtherTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/com/dianping/orderdish/dbh/keruida2012/service/impl/TestBaseConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/com/dianping/orderdish/dbh/keruida2012/service/impl/TestIPosOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/com/dianping/orderdish/dbh/keruida2012/service/impl/TestIPosTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/com/dianping/orderdish/dbh/keruida2012/service/impl/TestIShopTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/com/dianping/orderdish/dbh/keruida2012/service/impl/TestMoLing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/impl/BigDecimalTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/impl/KeRuiDaOrderServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/impl/TestBaseConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/impl/TestIPosOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/impl/TestIPosTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/impl/TestIShopTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-2012-plugin/src/test/java/impl/TestMoLing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaBaseConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaShopTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosBaseConfigService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosOrderService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosSqlExecuteService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosTablesService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IShopTablesService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/main/resources/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida-plugin/src/test/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaOrderServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/code/Code.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/code/KeRuiDaResponseCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/conn/ConnectionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/dao/KeRuiDaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/base/KeRuiDaFetchOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida/service/impl/KeRuiDaTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida12/service/base/KeRuiDaFetchOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida12/service/impl/KeRuiDaBaseConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida12/service/impl/KeRuiDaOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/code/KeRuiDaResponseCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/conn/ConnectionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/dao/KeRuiDaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/po/KeRuiDaOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/service/base/KeRuiDaFetchOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/service/impl/KeRuiDaBaseConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/service/impl/KeRuiDaOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/service/impl/KeRuiDaShopTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/service/impl/KeRuiDaSqlExecuteServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/service/impl/KeRuiDaTablesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/keruida/util/MoLingUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/mapper/DishItemMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/mapper/OrderInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/mapper/ShopInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/mapper/SystemRulesInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/service/base/KeRuiDaFetchOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/service/impl/KeRuiDaBaseConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/keruida2012/service/impl/KeRuiDaOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/mapper/DishItemMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/mapper/ShopInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/java/com/dianping/orderdish/dbh/mapper/SystemRulesInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosBaseConfigService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosOrderService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosSqlExecuteService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosTablesService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IShopTablesService">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/com/dianping/orderdish/dbh/keruida/mapper/DishItemMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/com/dianping/orderdish/dbh/keruida/mapper/OrderInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/com/dianping/orderdish/dbh/keruida/mapper/ShopInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/com/dianping/orderdish/dbh/keruida/mapper/SystemRulesInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/com/dianping/orderdish/dbh/keruida12/mapper/DishItemMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/com/dianping/orderdish/dbh/keruida12/mapper/OrderInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/main/resources/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/test/java/com/dianping/dbh/keruida/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/test/java/com/dianping/dbh/keruida/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/test/java/com/dianping/orderdish/dbh/keruida2012/test/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-keruida2012-plugin/src/test/java/orderdish-dbh/test/Test.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-sixun-plugin/src/main/java/com/dianping/orderdish/dbh/sixun_v4/service/impl/SixunOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-sixun-plugin/src/main/java/com/dianping/orderdish/dbh/sixun_v4/service/impl/SixunSqlExecuteServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-sixun-plugin/src/main/resources/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-sixun-plugin/src/main/resources/sixun_v4-jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-sixun_v6-plugin/src/main/java/com/dianping/orderdish/dbh/sixun_v6/po/TablePO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-wuting-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-wuting-plugin/src/main/java/com/dianping/orderdish/dbh/wuting/impl/WutingOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-wuting-plugin/src/main/java/com/dianping/orderdish/dbh/wuting/mapper/OrderMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-wuting-plugin/src/main/java/com/dianping/orderdish/dbh/wuting/po/WutingDishItemPo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-wuting-plugin/src/main/resources/com/dianping/orderdish/dbh/wuting/mapper/OrderMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-wuting-plugin/src/main/resources/jdbc4wuting.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-wuting-plugin/src/test/java/com/dianping/orderdish/dbh/wuting/test/TestWuting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/impl/ZhibaiweiV8BaseConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/impl/ZhibaiweiV8OrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/impl/ZhibaiweiV8SqlExecuteServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/reconstruct/po/DishItemsPo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/reconstruct/service/BaseOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/reconstruct/service/DishItemsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/reconstruct/service/FeeItemsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/util/ConnectionUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/resources/com/dianping/orderdish/dbh/zhibaiwei_v8/mapper/DishItemsMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/main/resources/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-zhibaiwei_v8-plugin/src/test/java/com/dianping/orderdish/dbh/zhibaiwei_v8/test/TestZhibaiweiV8.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/pom.xml">
           <value>
             <set />
           </value>
