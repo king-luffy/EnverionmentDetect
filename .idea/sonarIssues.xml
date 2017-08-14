@@ -18,12 +18,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/service/ButtonClick.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/dp/service/DBComparer.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/dp/service/Enverionment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/service/ImageLocator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/service/ScreeCapture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/service/ScreenCapture.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/dp/service/ScreenShoter.java">
           <value>
             <set />
           </value>
@@ -119,6 +144,61 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/java/com/dianping/orderdish/dbh/huashan/util/DBConfigUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/resources/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/test/java/com/dianping/orderdish/dbh/huashan/service/impl/HuashanConfigServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/test/java/com/dianping/orderdish/dbh/huashan/service/impl/HuashanPosTableServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-bohao-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-bohao-plugin/src/main/java/com/dianping/orderdish/dbh/bohao/service/impl/BoHaoBaseConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-bohao-plugin/src/main/java/com/dianping/orderdish/dbh/bohao/service/impl/BoHaoOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-bohao-plugin/src/main/java/com/dianping/orderdish/dbh/bohao/util/ConnectionUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-bohao-plugin/src/main/java/com/dianping/orderdish/dbh/bohao/util/DBConfigUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-bohao-plugin/src/main/java/com/dianping/orderdish/dbh/bohao/util/ResponseMsgUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/orderdish-dbh-bohao-plugin/src/main/resources/META-INF/services/com.dianping.orderdish.dbh.spi.IPosBaseConfigService">
           <value>
             <set />
           </value>
@@ -729,6 +809,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../sourceTree/orderdish-dbh-plugins/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../javac/llk/src/llk/BMP.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../javac/llk/src/llk/FkSet.java">
           <value>
             <set />
           </value>
