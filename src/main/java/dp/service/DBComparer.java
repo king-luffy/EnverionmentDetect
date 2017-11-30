@@ -31,7 +31,7 @@ public class DBComparer {
         }
 
         try {
-            List<DBInfo> dbInfos = getRoomServiceFeeInfo(connection);
+            List<DBInfo> dbInfos = getDBInfo(connection);
 
             if(dbInfos==null){
                 return;
@@ -54,7 +54,7 @@ public class DBComparer {
 
     }
 
-    public List<DBInfo> getRoomServiceFeeInfo(Connection conn) throws Exception {
+    public List<DBInfo> getDBInfo(Connection conn) throws Exception {
         PreparedStatement stmt = null;
         ResultSet rs = null;
         try {
